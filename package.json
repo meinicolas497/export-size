@@ -1,0 +1,10 @@
+{
+  "name": "export-size",
+  "version": "0.1.0",
+  "description": "Analysis bundle cost for each export of a package",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
