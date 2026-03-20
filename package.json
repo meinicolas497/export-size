@@ -1,6 +1,6 @@
 {
   "name": "export-size",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Analysis bundle cost for each export of a package",
   "main": "src/index.ts",
   "scripts": {
